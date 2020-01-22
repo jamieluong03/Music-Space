@@ -3,6 +3,7 @@
 In this music space, the user is able to search for the latest songs, albums, and upcoming shows from their favorite artists. If interested, the user is a one-click away from being redirected to Ticketmaster to purchase tickets for any upcoming events.
 
 
+<img src="Assets/Photos/musicspace.png" width=800>
 
 ## Technologies Used
 * HTML, CSS, REST API, fetch, Javascript, jQuery, Bulma (Framework)
