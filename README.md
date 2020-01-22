@@ -5,7 +5,7 @@ In this music space, the user is able to search for the latest songs, albums, an
 
 
 ## Technologies Used
-* HTML, CSS, REST API, AJAX, Javascript, jQuery, Bulma (Framework)
+* HTML, CSS, REST API, fetch, Javascript, jQuery, Bulma (Framework)
 * APIs from Ticketmaster and last.fm
 
 
